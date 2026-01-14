@@ -7,5 +7,3 @@
 - [课程进度 / 课表](schedule.md)
 - [作业列表](assignments/HW01.md)
 - [参考资料](resources.md)
-
-> 建议把本页当公告栏：更新通知、答疑时间、提交方式等。
