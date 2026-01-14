@@ -1,0 +1,16 @@
+# 课程讲义（Lectures）
+
+- [Lecture 01：预备知识](lec1.pdf)
+- [Lecture 02：C++基础介绍](lec2.pdf)
+- [Lecture 03：常量和表达式](lec3.pdf)
+- [Lecture 04：控制(if-else)](lec4.pdf)
+- [Lecture 05：控制(switch-case)、循环(while)](lec5.pdf)
+- [Lecture 06：循环(for)](lec6.pdf)
+- [Lecture 07：类型补充、函数I](lec7.pdf)
+- [Lecture 08：函数II](lec8.pdf)
+- [Lecture 09：数组I](lec9.pdf)
+- [Lecture 10：数组II](lec10.pdf)
+- [Lecture 11：指针I](lec11.pdf)
+- [Lecture 12：指针II](lec12.pdf)
+- [Lecture 13：字符串](lec13.pdf)
+- [Lecture 14：静态局部变量、宏](lec14.pdf)
