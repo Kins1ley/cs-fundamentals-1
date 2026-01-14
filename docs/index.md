@@ -4,9 +4,9 @@
 
 ## 快速入口
 - [课程大纲](syllabus.md)
-- [课程讲义](lecture.md)
-- [作业列表](homework.md)
-- [参考资料](resources.md)
+- [课程讲义](../lecture/lecture.md)
+- [作业列表](../homework/homework.md)
+- [参考资料](../resources/resources.md)
 
 ---
 ## 致谢
