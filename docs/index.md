@@ -5,5 +5,4 @@
 ## 快速入口
 - [课程大纲](syllabus.md)
 - [课程进度 / 课表](schedule.md)
-- [作业列表](assignments/HW01.md)
-- [参考资料](resources.md)
+- [作业列表](assignments)
