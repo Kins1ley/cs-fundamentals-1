@@ -4,5 +4,6 @@
 
 ## 快速入口
 - [课程大纲](syllabus.md)
-- [课程进度 / 课表](schedule.md)
-- [作业列表](assignments)
+- [课程讲义](lecture)
+- [作业列表](homework)
+- [参考资料](resources)
